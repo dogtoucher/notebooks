@@ -1,2 +1,2 @@
 # notebooks
-something learning
+something naive
